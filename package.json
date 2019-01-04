@@ -1,0 +1,14 @@
+{
+  "name": "node-ex",
+  "version": "1.0.0",
+  "description": "test node",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanawat",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
